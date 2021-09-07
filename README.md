@@ -7,5 +7,5 @@ I'm Sara Kafaween and I'm recently graduated fro Balqa university as an Electric
 topic | link |
 :----- | :----: |
 class01   | [Introduction to React and Components](code301/class-01.md) |
-class02   | [The Difference Between HTML, CSS and JavaScript](code301/class-02.md)  |
-class03   | [HTML Lists, CSS Boxes, JS Control Flow](code301/class-03.md) |
+class02   | [Passing Functions as Props](code301/class-02.md)  |
+class03   | [Passing Functions as Props](code301/class-03.md) |
