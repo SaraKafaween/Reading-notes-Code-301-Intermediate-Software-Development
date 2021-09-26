@@ -17,4 +17,7 @@ class08   | [API Design](code301/class-08.md) |
 class09   | [What is functional programming?](code301/class-09.md) |
 class10   | [The JavaScript Call Stack](code301/class-10.md) |
 class11   | [SQL vs NoSQL](code301/class-11.md) |
-class11   | [CRUD](code301/class-12.md) |
+class12   | [CRUD](code301/class-12.md) |
+class13   | [Diversity & Inclusion in the Tech Industry](code301/class-13.md) |
+class14   | [What is OAuth?](code301/class-14.md) |
+class15   | [](code301/class-15.md) |
